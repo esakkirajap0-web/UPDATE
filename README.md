@@ -1,8 +1,8 @@
 [
     {
         "device_id": "c7ed70dda594a974",
-        "username": "user1",
-        "password": "pass123",
+        "username": "Rowdy1",
+        "password": "Rowdy123",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
